@@ -1,0 +1,47 @@
+.subHeader{
+    max-width: 1280px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subHeader div{
+    height: 40px;
+}
+
+.allCategories{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 152px;
+    margin-right: 1rem;
+    font-size: 14px;
+    color: #002f34;
+    font-weight: 700;
+    cursor: pointer;
+}
+.arrowContainer{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    margin: 0 8px;
+    color: #002f34;
+    font-size: 14px;
+    list-style: none;
+    cursor: pointer;
+    font-family: 'Roboto',A2rial,Helvetica,sans-serif;
+}
